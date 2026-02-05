@@ -3,5 +3,4 @@ groq
 pypdf
 pandas
 dotenv
-docx
-user exceptions
+python-docx

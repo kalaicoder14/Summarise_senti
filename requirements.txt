@@ -4,4 +4,4 @@ pypdf
 pandas
 dotenv
 docx
-exceptions
+user exceptions
